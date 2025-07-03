@@ -1,20 +1,4 @@
-<h1 align="left">Hi there I'm Samar Salah👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
-<p align="left">I'm Samar!<br><br>- 🔭 I’m working as Data Analyst.<br>- 🚀 Passionate about creating interactive Dashboards.<br>- 📚 I'm currently learning ML.<br>- ⚡ In my free time I Read.</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
