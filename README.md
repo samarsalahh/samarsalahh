@@ -1,4 +1,4 @@
-<h1 align="left">Hi there I'm Samar Salah 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Samar!<br><br>- 🔭 I’m working as Data Analyst.<br>- 📚 I'm currently learning ML.<br>- ⚡ In my free time I Read.</p>
+<p align="left">I'm Samar!<br><br>- 🔭 I’m working as Data Analysis.<br>- 🚀 Passionate about creating interactive Dashboards.<br>- 📚 I'm currently learning ML.<br>- ⚡ In my free time I Read.</p>
 
 ###
 
